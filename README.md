@@ -1,2 +1,7 @@
-# demo-cesar-humberto-mendez-cesarini-escribano
-Demo web para Cesar Humberto Mendez Cesarini Escribano — diseñada por eterlab.
+# Cesar Humberto Mendez Cesarini Escribano
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
